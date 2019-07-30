@@ -1,0 +1,11 @@
+.myphoto {
+    text-align: center;
+}
+.myphoto img{
+    width:350px;
+}
+.myname {
+    color: rgba(69, 78, 53, 0.884);
+    font-size: 32px;
+    text-align: center;
+}
